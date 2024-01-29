@@ -37,7 +37,6 @@ android {
     }
     buildFeatures {
         viewBinding = true
-        dataBinding= true
     }
 }
 
@@ -77,6 +76,8 @@ dependencies {
     // MPAndroid Chart
     implementation("com.github.PhilJay:MPAndroidChart:v3.1.0")
 
+    // Audio Picker
+//    implementation("com.github.majidarabi:AndroidFilePicker:v0.2.2")
     implementation ("com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0")
 
 

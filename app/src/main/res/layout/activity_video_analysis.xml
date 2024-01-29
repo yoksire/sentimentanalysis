@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".HashInputActivity"
+    tools:context=".VideoAnalysisActivity"
     android:background="@color/background">
     <LinearLayout
         android:id="@+id/appBar"
@@ -30,7 +30,7 @@
         <TextView
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Hashtag Analysis"
+            android:text="Video Analysis"
             android:textSize="26sp"
             android:layout_marginEnd="60dp"
             android:fontFamily="@font/poppins_medium"
@@ -58,7 +58,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="16dp"
             android:fontFamily="@font/poppins_bold"
-            android:text="Sought After by Many"
+            android:text="Check Your Shorts Impact"
             android:textAlignment="center"
             android:textColor="@color/white"
             android:textSize="30sp" />
@@ -78,7 +78,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="8dp"
             android:fontFamily="@font/bungee"
-            android:text="#"
+            android:text="/"
             android:textColor="@color/colorPrimary"
             android:textSize="40sp" />
         <com.google.android.material.textfield.TextInputLayout
@@ -96,8 +96,8 @@
                 android:id="@+id/etUID"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textSize="28dp"
                 android:fontFamily="@font/poppins_bold"
+                android:textSize="20dp"
                 android:textColor="@color/white"
                 android:textAlignment="center"
                 />
@@ -111,14 +111,14 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/ll2"
-        android:layout_margin="8dp"
+        android:layout_margin="16dp"
         >
-        <NumberPicker
-            android:id="@+id/npNumber"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:theme="@style/numberPickerTheme"
-            />
+<!--        <NumberPicker-->
+<!--            android:id="@+id/npNumber"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:theme="@style/numberPickerTheme"-->
+<!--            />-->
     </LinearLayout>
 
     <Button
@@ -152,6 +152,4 @@
             android:src="@drawable/multiemotion" />
 
     </LinearLayout>
-
-
 </androidx.constraintlayout.widget.ConstraintLayout>
