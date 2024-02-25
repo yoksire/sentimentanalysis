@@ -2,7 +2,7 @@
 
 Welcome to the README file for the Sentiment Analysis Android app built with Kotlin. This app leverages sentiment analysis on Twitter profiles and posts using Nitter to scrape tweets and ML models to provide a comprehensive dashboard about emotions and sentiments. Additionally, it includes a feature to analyze the sentiment and emotion of any sentence. The app uses Anygraph library to draw graphs for better visualization.
 
-![Sentiment Analysis App Screenshots](<video src="/image/draftfeb.mp4"></video>)
+![Sentiment Analysis App Screenshots](https://www.youtube.com/watch?v=Ggf1TVJEojM)
 
 ## Table of Contents
 
@@ -70,7 +70,7 @@ The Sentiment Analysis Android app follows the MVVM (Model-View-ViewModel) archi
 
 - **ViewModel:** Acts as a bridge between the Model and the View, holding UI-related data and logic. This facilitates communication between components while maintaining data integrity.
   
-![MVVM](https://github.com/yourusername/yourrepository/blob/main/Images/viewmodel.png)
+![MVVM](https://github.com/yoksire/sentimentanalysis/blob/master/image/viewmodel.png)
 
 By adopting the MVVM architecture, the Sentiment Analysis app gains several benefits:
 
