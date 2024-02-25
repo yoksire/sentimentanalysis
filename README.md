@@ -2,7 +2,7 @@
 
 Welcome to the README file for the Sentiment Analysis Android app built with Kotlin. This app leverages sentiment analysis on Twitter profiles and posts using Nitter to scrape tweets and ML models to provide a comprehensive dashboard about emotions and sentiments. Additionally, it includes a feature to analyze the sentiment and emotion of any sentence. The app uses Anygraph library to draw graphs for better visualization.
 
-![Sentiment Analysis App Screenshots](https://www.youtube.com/watch?v=Ggf1TVJEojM)
+![Sentiment Analysis App Screenshots](https://youtu.be/Af8o81lohxw)
 
 ## Table of Contents
 
