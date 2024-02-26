@@ -30,15 +30,6 @@ The Sentiment Analysis Android app is designed to provide users with insights in
 - Visualize sentiment and emotion analysis results using Anygraph library.
 - Switch between light and dark themes for a personalized user experience.
 
-### Screenshots
-
-Here are some screenshots showcasing the app's user interface and features:
-
-![Screenshot 1](/Images/screenshot_light.jpg)
-<p align="center"><i>Light Mode - Dashboard</i></p>
-
-![Screenshot 2](/Images/screenshot_dark.jpg)
-<p align="center"><i>Dark Mode - Sentiment Analysis</i></p>
 
 ## Tech Stack
 
