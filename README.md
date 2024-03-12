@@ -73,4 +73,4 @@ This project is licensed under the [Apache-2.0 license](https://github.com/yoksi
 Have questions or feedback? Feel free to reach out:
 
 - LinkedIn: [Niraj](https://www.linkedin.com/in/nirajk24/)
-- LinkedI: [Yokshire](https://www.linkedin.com/in/debojitguha2002/)
+- LinkedIn: [Yokshire](https://www.linkedin.com/in/debojitguha2002/)
